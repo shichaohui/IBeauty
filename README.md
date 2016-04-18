@@ -12,10 +12,10 @@
 [retrolambda](https://github.com/orfjackal/retrolambda)
 
 ### APK下载
-[点我下载](../apk/ibeauty_v1.0.0.apk)
+[点我下载](https://github.com/shichaohui/IBeauty/blob/master/apk%2Fibeauty_v1.0.0.apk)
 
 ### 截图
 
-![主页妹子图](../screenshot/main.png)
-![妹子分类](../screenshot/menu.png)
-![大图看妹子](../screenshot/picture.png)
+![主页妹子图](https://github.com/shichaohui/IBeauty/blob/master/screenshot%2Fmain.png)
+![妹子分类](https://github.com/shichaohui/IBeauty/blob/master/screenshot%2Fmenu.png)
+![大图看妹子](https://github.com/shichaohui/IBeauty/blob/master/screenshot%2Fpicture.png)
