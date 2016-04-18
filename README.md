@@ -11,6 +11,10 @@
 [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)  
 [retrolambda](https://github.com/orfjackal/retrolambda)  
 
+### 图片接口
+
+[图片API列表](http://www.tngou.net/doc/gallery/29)
+
 ### APK下载
 
 [点我下载](https://github.com/shichaohui/IBeauty/blob/master/apk/ibeauty_v1.0.0.apk?raw=true)
