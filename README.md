@@ -12,6 +12,7 @@
 [retrolambda](https://github.com/orfjackal/retrolambda)  
 
 ### APK下载
+
 [点我下载](https://github.com/shichaohui/IBeauty/blob/master/apk/ibeauty_v1.0.0.apk?raw=true)
 
 ### 截图
