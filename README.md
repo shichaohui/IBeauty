@@ -17,6 +17,6 @@
 
 ### 截图
 
-![主页妹子图](https://github.com/shichaohui/IBeauty/blob/master/screenshot/main.png?raw=true)
-![妹子分类](https://github.com/shichaohui/IBeauty/blob/master/screenshot/menu.png?raw=true)
-![大图看妹子](https://github.com/shichaohui/IBeauty/blob/master/screenshot/picture.png?raw=true)
+![主页妹子图](https://github.com/shichaohui/IBeauty/blob/master/screenshot/main.jpeg)
+![妹子分类](https://github.com/shichaohui/IBeauty/blob/master/screenshot/menu.jpeg)
+![大图看妹子](https://github.com/shichaohui/IBeauty/blob/master/screenshot/picture.jpeg)
