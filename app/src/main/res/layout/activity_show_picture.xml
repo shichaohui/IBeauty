@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.lsjwzh.widget.recyclerviewpager.RecyclerViewPager
+        android:id="@+id/rviewpager_picture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        app:rvp_singlePageFling="true"
+        app:rvp_triggerOffset="0.1"/>
+
+    <com.sch.ibeauty.view.component.PageIndicator
+        android:id="@+id/page_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/shape_corners_black_translucent"
+        android:orientation="horizontal"/>
+
+</RelativeLayout>

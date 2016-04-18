@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">爱美女</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="edt_hint_input_account_or_email">请输入账号/邮箱</string>
+    <string name="edt_hint_input_account">请输入账号</string>
+    <string name="edt_hint_input_pwd">请输入密码</string>
+    <string name="btn_login">登录</string>
+    <string name="format_app_version">版本：%s</string>
+    <string name="btn_register">还没有账号？快速注册</string>
+    <string name="title_register">注册</string>
+    <string name="edt_hint_input_email">请输入邮箱</string>
+    <string name="txt_register">注册</string>
+    <string name="logout">退出登录</string>
+    <string name="Press_again_to_exit_the_app">再按一次退出应用</string>
+    <string name="no_more_pictures">没有更多图片了</string>
+    <string name="register_failed">注册失败</string>
+    <string name="load_failed">加载失败</string>
+    <string name="email_format_err">邮箱格式不正确</string>
+    <string name="account_format_err">账号格式应为6-16位的数字字母下划线的组合</string>
+    <string name="password_format_err">密码必须为6-16位</string>
+</resources>

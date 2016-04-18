@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_app_bar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/edt_user_account_or_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/edt_hint_input_account"
+                android:maxLines="1"
+                android:singleLine="true"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin">
+
+            <EditText
+                android:id="@+id/edt_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/edt_hint_input_email"
+                android:inputType="textEmailAddress|textWebEmailAddress"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin">
+
+            <EditText
+                android:id="@+id/edt_user_pwd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/edt_hint_input_pwd"
+                android:inputType="textPassword"
+                android:maxLength="16"
+                android:maxLines="1"
+                android:singleLine="true"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/btn_hight_large"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="@drawable/bg_btn"
+            android:text="@string/txt_register"
+            android:textColor="@android:color/white"/>
+
+    </LinearLayout>
+
+</LinearLayout>
